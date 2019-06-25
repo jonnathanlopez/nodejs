@@ -4,7 +4,7 @@
   "description": "Aplicación Simple NodeJS para OpenShift 3.11",
   "main": "server.js",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.2.0"
   },
   "engine": {
     "node": ">=10.16.0",
