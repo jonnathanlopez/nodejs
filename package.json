@@ -14,9 +14,7 @@
     "type": "git",
     "url": "https://github.com/jonnathanlopez/nodejs.git"
   },
-  {
   "author": "Jonnathan López Moreno",
-  "license": "MIT",
-  },
+  "license": "MIT"
   "url": "https://github.com/jonnathanlopez/nodejs.git"
 }
