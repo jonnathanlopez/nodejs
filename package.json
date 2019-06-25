@@ -8,7 +8,7 @@
     "express": "^4.16.4",
     "mongodb": "^3.2.6",
     "morgan": "^1.7.4",
-    "object-assign":"^4.1.0"
+    "object-assign":"4.1.0"
   },
   "engine": {
     "node": "10.16.0",
@@ -21,9 +21,9 @@
     "type": "git",
     "url": "https://github.com/jonnathanlopez/nodejs.git"
   },
+  {
   "author": "Jonnathan López Moreno",
   "license": "MIT",
-  "bugs": {
   },
   "url": "https://github.com/jonnathanlopez/nodejs.git"
 }
