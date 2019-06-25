@@ -1,8 +1,8 @@
 {
   "name": "nodejs-example",
   "version": "1.0.0",
-  "description": "Aplicación Simple NodeJS para OpenShift 3.11,
-  "main": "server.js",
+  "description": "Aplicación Simple NodeJS para OpenShift 3.11",
+  "main": "servidor.js",
   "dependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
