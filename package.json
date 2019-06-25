@@ -6,16 +6,16 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
     "mocha": "^6.1.4",
-    "mongodb": "^3.2.6",
-    "morgan": "^1.7.4",
-    "object-assign":"4.1.0"
+    "mongodb": "^3.2.7",
+    "morgan": "^1.9.1",
+    "object-assign":"^4.1.1"
   },
   "engine": {
-    "node": "*",
-    "npm": "*"
+    "node": ">=10.16.0",
+    "npm": ">=6.9.0"
   },
   "scripts": {
     "start": "node server.js",
@@ -26,7 +26,7 @@
     "url": "https://github.com/jonnathanlopez/nodejs.git"
   },
   "author": "Jonnathan López Moreno",
-  "license": "",
+  "license": "MIT,Apache-2.0,",
   "bugs": {
   },
   "url": "https://github.com/jonnathanlopez/nodejs"
