@@ -6,7 +6,7 @@
   "dependencies": {
     "chai": "4.2.0",
     "chai-http": "4.3.0",
-    "ejs": "2.6.2",
+    "ejs": "^2.5.5",
     "express": "*",
     "mocha": "*",
     "mongodb": "*",
