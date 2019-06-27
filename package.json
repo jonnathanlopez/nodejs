@@ -4,14 +4,14 @@
   "description": "Aplicación Simple NodeJS para OpenShift 3.11",
   "main": "server.js",
   "dependencies": {
-    "chai": "^4.2.0",
-    "chai-http": "^4.3.0",
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
-    "mocha": "^6.1.4",
-    "mongodb": "^3.2.6",
-    "morgan": "^1.7.4",
-    "object-assign":"^4.1.0"
+    "chai": "*",
+    "chai-http": "*",
+    "ejs": "*",
+    "express": "*",
+    "mocha": "*",
+    "mongodb": "*",
+    "morgan": "*",
+    "object-assign":"*"
   },
   "engine": {
     "node": "*",
