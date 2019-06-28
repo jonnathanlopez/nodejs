@@ -1,5 +1,5 @@
 //  Aplicación Simple con NodeJS para Openshift 3.11
-//  OpenShift sample Node application
+//  OpenShift sample Node application 28 Junio 2019
 var express = require('express'),
     app     = express(),
     morgan  = require('morgan');
